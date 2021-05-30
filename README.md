@@ -1,3 +1,3 @@
 # Cetpa-Internship-assignment
 
-This repository contains assignment that i was given to complete during my internship in CETPA.
+This repository contains assignment that I was given to complete during my internship in CETPA.
